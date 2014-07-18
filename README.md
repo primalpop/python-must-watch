@@ -11,4 +11,4 @@ This is a list of must-watch videos related to Python. Inspired by [js-must-watc
 
 1. Raymond Hettinger: [Transforming Code into Beautiful, Idiomatic Python - Pycon 2013](http://pyvideo.org/video/1780/transforming-code-into-beautiful-idiomatic-pytho)
 2. Ned Batchelder: [Loop like a native: while, for, iterators, generators - Pycon 2013](http://pyvideo.org/video/1758/loop-like-a-native-while-for-iterators-genera)
-3. Titus Brown: [Awesome Big Data Algorithms - Pycon 2013][http://pyvideo.org/video/1781/awesome-big-data-algorithms]
+3. Titus Brown: [Awesome Big Data Algorithms - Pycon 2013](http://pyvideo.org/video/1781/awesome-big-data-algorithms)
